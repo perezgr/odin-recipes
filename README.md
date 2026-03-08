@@ -12,3 +12,8 @@ Through this project, I practiced fundamental HTML concepts such as:
 - Structuring a small multi-page website
 
 This project focuses on strengthening core HTML skills. Styling with CSS will be added later in the course.
+
+The images used in this project were sourced from the following websites:
+
+- https://www.allrecipes.com
+- https://simplyrecipes.com
